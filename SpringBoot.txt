@@ -1,2 +1,3 @@
 SpringBoot
 SpringBoot is a module of Spring Framework
+The Main feature is auto configuration and embedded tomcat server
